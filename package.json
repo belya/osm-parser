@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "file-save": "^0.2.0",
+    "is-subset": "^0.1.1",
+    "osmtogeojson": "^2.2.12",
+    "query-overpass": "^1.1.0",
+    "translit-russian": "0.0.2"
+  }
 }
